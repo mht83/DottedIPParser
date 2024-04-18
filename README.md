@@ -1,4 +1,4 @@
-#DottedIPParser
+# DottedIPParser
 
 This simple C++ program reads an IP address in dotted format (e.g., "192.168.1.1") and displays its individual octets.
 
