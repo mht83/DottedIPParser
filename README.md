@@ -1,6 +1,11 @@
 # DottedIPParser
 
-This simple C++ program reads an IP address in dotted format (e.g., "192.168.1.1") and displays its individual octets.
+## Ovweview
+DottedIPParser is a simple C++ class designed to handle IP addresses in dotted format (IPv4). It provides functionality to split a dotted IP address into its individual octets and display the address.
+
+## Features
+- Parses a dotted IP address (e.g., “192.168.1.1”) into separate octets.
+- Displays the IP address in a human-readable format.
 
 ## Usage
 
@@ -12,6 +17,9 @@ This simple C++ program reads an IP address in dotted format (e.g., "192.168.1.1
 ## Example
 Please enter an IP address in dotted format: 192.168.1.1
 The IP address you entered is: ( 192 , 168 , 1 , 1 )
+
+## Contributing
+Contributions to DottedIPParser are welcome! Feel free to submit pull requests or create issues for any improvements or bug fixes.
 
 ## Author
 
